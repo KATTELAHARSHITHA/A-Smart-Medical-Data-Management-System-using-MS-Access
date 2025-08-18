@@ -5,6 +5,7 @@ This project is a complete desktop-based Medical Record Management System develo
 
 🎯 Purpose
 The system helps small-scale clinics reduce manual paperwork and track patient history more effectively.
+
 ✅ What I Did in This Project
 1. Database Design
 Created tables for:
@@ -30,5 +31,6 @@ Created Patient Summary Report for detailed patient records.
 Developed Appointment Schedule Report for doctors and staff.
 Designed Treatment Progress Report to track recovery status.
 Enabled export to PDF/Excel for sharing and printing.
+
 ⚙️ Tools & Technologies
 Microsoft Access 2016+
